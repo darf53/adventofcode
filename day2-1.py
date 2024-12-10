@@ -17,8 +17,8 @@ with open('day2.txt', 'r') as file:
       safeCount +=1
       print(safe)
     else:
-      safe == True
-      print(lineList)
+      safe = True
+    print(lineList)
 print(safeCount)
 
 
